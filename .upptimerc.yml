@@ -8,7 +8,7 @@ sites:
   - name: Project And Factory API
     url: https://api.pafgroup.org
   - name: PiglinBBS
-    url: https://www.piglinbbs.com/
+    url: https://www.piglinbbs.com/index.php
   - name: Blog
     url: https://blog.pafgroup.org/
 
