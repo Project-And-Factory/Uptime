@@ -19,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://files.pafgroup.org/103430917_p1.jpg
   name: Ganyu Status Dashboard
-  introTitle: "This shows the running status of all Project And Factory services."
-  introMessage: Powerd by Upptime[**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Ganyu Status Dashboard"
+  introMessage: This shows the running status of all Project And Factory services.
   navbar:
     - title: Status
       href: /
