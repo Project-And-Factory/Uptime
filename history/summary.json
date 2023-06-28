@@ -22,18 +22,20 @@
     "url": "https://api.pafgroup.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.pafgroup.org.ico",
     "slug": "project-and-factory-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 522,
     "timeDay": 581,
     "timeWeek": 522,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 2
+    }
   },
   {
     "name": "PiglinBBS",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.piglinbbs.com.ico",
     "slug": "piglin-bbs",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 290,
     "timeDay": 117,
     "timeWeek": 290,
@@ -60,7 +62,7 @@
     "url": "https://blog.pafgroup.org/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.pafgroup.org.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +73,8 @@
     "timeWeek": 630,
     "timeMonth": 630,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   }
 ]
