@@ -8,7 +8,7 @@
     "uptime": "79.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.48%",
+    "uptimeMonth": "71.52%",
     "uptimeYear": "79.89%",
     "time": 867,
     "timeDay": 515,
@@ -58,9 +58,9 @@
     "slug": "piglin-bbs",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "85.24%",
-    "uptimeWeek": "91.95%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "85.23%",
+    "uptimeWeek": "92.00%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "98.97%",
     "time": 128,
     "timeDay": 117,
@@ -72,8 +72,7 @@
       "2023-08-17": 189,
       "2023-08-16": 165,
       "2023-08-15": 197,
-      "2023-08-14": 156,
-      "2023-08-13": 5
+      "2023-08-14": 156
     }
   },
   {
