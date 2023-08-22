@@ -8,7 +8,7 @@
     "uptime": "81.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.15%",
+    "uptimeMonth": "83.18%",
     "uptimeYear": "81.12%",
     "time": 846,
     "timeDay": 522,
@@ -56,12 +56,12 @@
     "url": "https://www.piglinbbs.com/images/1.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/www.piglinbbs.com.ico",
     "slug": "piglin-bbs",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "86.03%",
-    "uptimeWeek": "91.14%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "86.02%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "98.94%",
     "time": 119,
     "timeDay": 96,
     "timeWeek": 113,
@@ -72,7 +72,7 @@
       "2023-08-21": 295,
       "2023-08-20": 311,
       "2023-08-19": 230,
-      "2023-08-18": 55
+      "2023-08-18": 49
     }
   },
   {
