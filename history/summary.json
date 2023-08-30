@@ -37,9 +37,9 @@
     "slug": "project-and-factory-api",
     "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.54%",
     "time": 309,
     "timeDay": 283,
@@ -47,7 +47,7 @@
     "timeMonth": 276,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-08-30": 24,
+      "2023-08-30": 30,
       "2023-06-29": 1046,
       "2023-06-28": 1284
     }
@@ -57,24 +57,24 @@
     "url": "https://www.piglinbbs.com/images/1.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/www.piglinbbs.com.ico",
     "slug": "piglin-bbs",
-    "status": "up",
+    "status": "down",
     "uptime": "93.63%",
-    "uptimeDay": "7.75%",
-    "uptimeWeek": "39.49%",
-    "uptimeMonth": "86.08%",
+    "uptimeDay": "8.04%",
+    "uptimeWeek": "39.53%",
+    "uptimeMonth": "86.09%",
     "uptimeYear": "93.63%",
     "time": 111,
-    "timeDay": 93,
+    "timeDay": 91,
     "timeWeek": 99,
     "timeMonth": 108,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-08-30": 748,
+      "2023-08-30": 750,
       "2023-08-29": 1291,
       "2023-08-28": 1331,
       "2023-08-27": 1357,
       "2023-08-26": 1112,
-      "2023-08-25": 267
+      "2023-08-25": 261
     }
   },
   {
@@ -84,9 +84,9 @@
     "slug": "blog",
     "status": "down",
     "uptime": "97.54%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "97.54%",
     "time": 356,
     "timeDay": 227,
@@ -94,7 +94,7 @@
     "timeMonth": 303,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-08-30": 22,
+      "2023-08-30": 28,
       "2023-06-29": 1046,
       "2023-06-28": 1283
     }
