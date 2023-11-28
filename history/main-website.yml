@@ -1,7 +1,7 @@
 url: https://pafgroup.org
-status: up
-code: 200
-responseTime: 622
-lastUpdated: 2023-11-28T23:10:43.009Z
+status: down
+code: 403
+responseTime: 79
+lastUpdated: 2023-11-28T23:55:30.617Z
 startTime: Sun Jun 25 2023 01:58:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
